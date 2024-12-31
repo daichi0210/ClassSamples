@@ -5,6 +5,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{44651D3E-FD1F-423D-A31A-A649FBB5174B}|ClassSamples\\ClassSamples.csproj|d:\\dev\\windows\\src\\repos\\classsamples\\classsamples\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{44651D3E-FD1F-423D-A31A-A649FBB5174B}|ClassSamples\\ClassSamples.csproj|solutionrelative:classsamples\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44651D3E-FD1F-423D-A31A-A649FBB5174B}|ClassSamples\\ClassSamples.csproj|d:\\dev\\windows\\src\\repos\\classsamples\\classsamples\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44651D3E-FD1F-423D-A31A-A649FBB5174B}|ClassSamples\\ClassSamples.csproj|solutionrelative:classsamples\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44651D3E-FD1F-423D-A31A-A649FBB5174B}|ClassSamples\\ClassSamples.csproj|d:\\dev\\windows\\src\\repos\\classsamples\\classsamples\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44651D3E-FD1F-423D-A31A-A649FBB5174B}|ClassSamples\\ClassSamples.csproj|solutionrelative:classsamples\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +22,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "D:\\dev\\windows\\src\\repos\\ClassSamples\\ClassSamples\\Animal.cs",
+              "RelativeDocumentMoniker": "ClassSamples\\Animal.cs",
+              "ToolTip": "D:\\dev\\windows\\src\\repos\\ClassSamples\\ClassSamples\\Animal.cs",
+              "RelativeToolTip": "ClassSamples\\Animal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T12:00:31.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\dev\\windows\\src\\repos\\ClassSamples\\ClassSamples\\Form1.cs",
+              "RelativeDocumentMoniker": "ClassSamples\\Form1.cs",
+              "ToolTip": "D:\\dev\\windows\\src\\repos\\ClassSamples\\ClassSamples\\Form1.cs",
+              "RelativeToolTip": "ClassSamples\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T11:59:23.57Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,

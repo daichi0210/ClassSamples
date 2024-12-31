@@ -1,0 +1,17 @@
+D:\dev\windows\src\repos\ClassSamples\ClassSamples\bin\Debug\net6.0-windows\ClassSamples.exe
+D:\dev\windows\src\repos\ClassSamples\ClassSamples\bin\Debug\net6.0-windows\ClassSamples.deps.json
+D:\dev\windows\src\repos\ClassSamples\ClassSamples\bin\Debug\net6.0-windows\ClassSamples.runtimeconfig.json
+D:\dev\windows\src\repos\ClassSamples\ClassSamples\bin\Debug\net6.0-windows\ClassSamples.dll
+D:\dev\windows\src\repos\ClassSamples\ClassSamples\bin\Debug\net6.0-windows\ClassSamples.pdb
+D:\dev\windows\src\repos\ClassSamples\ClassSamples\obj\Debug\net6.0-windows\ClassSamples.Form1.resources
+D:\dev\windows\src\repos\ClassSamples\ClassSamples\obj\Debug\net6.0-windows\ClassSamples.csproj.GenerateResource.cache
+D:\dev\windows\src\repos\ClassSamples\ClassSamples\obj\Debug\net6.0-windows\ClassSamples.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\windows\src\repos\ClassSamples\ClassSamples\obj\Debug\net6.0-windows\ClassSamples.AssemblyInfoInputs.cache
+D:\dev\windows\src\repos\ClassSamples\ClassSamples\obj\Debug\net6.0-windows\ClassSamples.AssemblyInfo.cs
+D:\dev\windows\src\repos\ClassSamples\ClassSamples\obj\Debug\net6.0-windows\ClassSamples.csproj.CoreCompileInputs.cache
+D:\dev\windows\src\repos\ClassSamples\ClassSamples\obj\Debug\net6.0-windows\ClassSamples.sourcelink.json
+D:\dev\windows\src\repos\ClassSamples\ClassSamples\obj\Debug\net6.0-windows\ClassSamples.dll
+D:\dev\windows\src\repos\ClassSamples\ClassSamples\obj\Debug\net6.0-windows\refint\ClassSamples.dll
+D:\dev\windows\src\repos\ClassSamples\ClassSamples\obj\Debug\net6.0-windows\ClassSamples.pdb
+D:\dev\windows\src\repos\ClassSamples\ClassSamples\obj\Debug\net6.0-windows\ClassSamples.genruntimeconfig.cache
+D:\dev\windows\src\repos\ClassSamples\ClassSamples\obj\Debug\net6.0-windows\ref\ClassSamples.dll
